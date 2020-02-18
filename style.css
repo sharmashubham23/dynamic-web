@@ -43,6 +43,13 @@ nav {
   font-weight: bold;
   text-transform: uppercase;
 }
+.menu ul li a {
+  text-decoration: none;
+  font-size: 20px;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: aliceblue;
+}
 section {
   display: flex;
 }
